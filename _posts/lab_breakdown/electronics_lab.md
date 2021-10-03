@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Electronics Lab Breakdown"
+post_url: /lab_breakdown/electronics_lab
+---
+
 # Summary
 This document summaries the various specifications regarding the Electronics Section of the Lab. 
 

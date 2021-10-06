@@ -6,6 +6,11 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+
+include:
+  - "_images"
+  - "_pages"
+
 # Gems
 plugins:
   - jekyll-paginate

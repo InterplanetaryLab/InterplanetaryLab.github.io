@@ -2,7 +2,7 @@
 title:               Interplanetary Initiative Lab
 tagline:             'An Interplanetary Initiative Operation'
 description:         "A more frequently updated website for the lab's specifications"
-baseurl:             ''
+baseurl:             'https://github.com/InterplanetaryLab/InterplanetaryLab.github.io'
 paginate:            5
 permalink:           pretty
 

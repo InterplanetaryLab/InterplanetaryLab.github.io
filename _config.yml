@@ -1,11 +1,10 @@
 # Setup
 title:               Interplanetary Initiative Lab
-tagline:             'An Interplanetary Initiative'
-description:         'A more frequently updated website for the labs specifications'
+tagline:             'An Interplanetary Initiative Operation'
+description:         "A more frequently updated website for the lab's specifications"
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-
 
 include:
   - "_images"

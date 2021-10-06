@@ -1,4 +1,0 @@
-baseURL = 'https://interplanetarylab.github.io/public/'
-languageCode = 'en-us'
-title = 'Interplanetary Initiative Lab'
-theme = "hyde"

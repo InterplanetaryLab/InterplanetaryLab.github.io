@@ -1,0 +1,11 @@
+# Setup
+title:               Interplanetary Initiative Lab
+tagline:             'An Interplanetary Initiative'
+description:         'A more frequently updated website for the labs specifications'
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# Gems
+plugins:
+  - jekyll-paginate

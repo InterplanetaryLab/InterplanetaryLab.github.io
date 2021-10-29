@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="_images/IILab_Banner.jpg" width=1000px>
+<img src="_images/IILab_Banner2.jpg" width=1000px>
 Welcome to the Interplanetary Initiative Lab Wiki. This wiki contains technical information pertaining to the lab. 
 
 The IILab is a cross between a university training cubesat lab, a maker space, and an R&D laboratory. The 6000 sq ft facility includes collaboration space, electronics development, fabrication, assembly and test.  Test facilities include a cubesat shaker table, a thermal vacuum chamber, a small clean room, a roof deck, and air-bearing attitude test.  Some of these facilities are operational now, others are under development.  

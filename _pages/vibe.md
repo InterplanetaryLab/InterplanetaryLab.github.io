@@ -15,12 +15,19 @@ This document summaries the specifications pertaining to the Vibration Testing S
  	- Continous pk-pk: 1 inch
 	- Between stops: 1.2 inchs
  - Capable of Meeting Various Cubesat Launch Provider's Vibration Specifications.
+ - 1 - 6U CubeSat Hardmount Fixture
 
 # Overall Shaker Photo
-![Missing Shaker 1 Photo](/_images/shaker_photos/shaker_photo_1.jpg)
+<img src="/_images/shaker_photos/shaker_photo_1.jpg" width="80%" height="80%"/>
 
 # Shaker Controller & Amplifier
-![Missing Shaker 2 Photo](/_images/shaker_photos/controller.jpg)
+<img src="/_images/shaker_photos/controller.jpg" width="80%" height="80%"/>
+
+# 1U Fixture 
+<img src="/_images/shaker_photos/1u_fixture.jpeg" width="80%" height="80%"/>
+
+# 3U Fixture
+<img src="/_images/shaker_photos/3u_fixture.jpeg" width="80%" height="80%"/>
 
 # Component Breakdown
 The Vibration System Consists of [Labworks Cubesat Vibration System](https://www.labworks-inc.com/CubeSat_Test_Systems/CubeSat_Test_Station.htm) with an upgraded shaker.

@@ -24,10 +24,10 @@ This document summaries the specifications pertaining to the Vibration Testing S
 <img src="/_images/shaker_photos/controller.jpg" width="80%" height="80%"/>
 
 # 1U Fixture 
-<img src="/_images/shaker_photos/1u_fixture.jpeg" width="80%" height="80%"/>
+<img src="/_images/shaker_photos/1u_fixture.jpg" width="80%" height="80%"/>
 
 # 3U Fixture
-<img src="/_images/shaker_photos/3u_fixture.jpeg" width="80%" height="80%"/>
+<img src="/_images/shaker_photos/3u_fixture.jpg" width="80%" height="80%"/>
 
 # Component Breakdown
 The Vibration System Consists of [Labworks Cubesat Vibration System](https://www.labworks-inc.com/CubeSat_Test_Systems/CubeSat_Test_Station.htm) with an upgraded shaker.

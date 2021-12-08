@@ -13,7 +13,7 @@ This document gives insite into the current specifications, overview pictures, a
     - 1x 25 d-sub (Max 500V, 5A)
     - 1x 4 BNC Coax
     - 1x USB3.0 
- - Lowest pressure tested 1.22e-3 torr 
+ - Lowest pressure tested 1.22e-3 torr (Nov. 21, 2021)
  - 9 Total ports
 
 # Photos

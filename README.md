@@ -27,8 +27,8 @@ This is somewhat a pain to do but I will cover the very basics (probably will ha
 	url: https://interplanetarylab.github.io
 	baseurl: / # change to /testing-website/ for git pages
 ```
- 2. Make sure you have Gem, Ruby, Bundler installed (won't go into that but some decent guides from Jekyll exist).
- 3. run the following commands (sudo permissions may be needed depending on your installation of gem).
+ 3. Make sure you have Gem, Ruby, Bundler installed (won't go into that but some decent guides from Jekyll exist).
+ 4. Run the following commands (sudo permissions may be needed depending on your installation of gem).
 ```bash
 	bundle update
 	bundle exec jekyll build

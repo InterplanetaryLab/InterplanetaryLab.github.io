@@ -7,3 +7,5 @@ jobs:
       - run: echo "performing readme merge from publications document"
       - name: Markdown autodocs
         uses: dineshsonachalam/markdown-autodocs@v1.0.4
+        with:
+          categories: '[code-block,json-to-html-table,workflow-artifact-table]'

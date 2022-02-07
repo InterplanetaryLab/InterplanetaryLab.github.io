@@ -2,7 +2,7 @@ name: Github Actions
 on: [push]
 jobs:
   update-publications:
-    runs-on: master
+    runs-on: ubuntu-latest
     steps:
       - run: echo "performing readme merge from publications document"
       - name: Markdown autodocs

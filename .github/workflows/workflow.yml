@@ -1,4 +1,2 @@
-- names: Markdown autodocs
+- name: Markdown autodocs
 - uses: dineshsonachalam/markdown-autodocs@v1.0.4
-  with:
-    commit_message: Updated Published Document Area

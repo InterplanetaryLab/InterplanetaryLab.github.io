@@ -1,2 +1,9 @@
-- name: Markdown autodocs
-- uses: dineshsonachalam/markdown-autodocs@v1.0.4
+name: Github Actions
+on: [push]
+jobs:
+  update-publications:
+    runs-on: master
+    steps:
+      - run: echo "performing readme merge from publications document"
+      - name: Update readme Merge
+        users: dineshsonachalam/markdown-autodocs@v1.0.4

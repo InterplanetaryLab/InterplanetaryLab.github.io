@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 # Summary 
-This document gives insite into the current specifications, overview pictures, and the future specificiations pertaining to the thermal vacuum chamber.
+This document gives insight into the current specifications, overview pictures, and the future specificiations pertaining to the thermal vacuum chamber.
 
 # Current Specifications
  - Volume of ~1 m^3

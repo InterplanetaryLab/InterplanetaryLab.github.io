@@ -7,3 +7,4 @@ wget https://raw.githubusercontent.com/InterplanetaryLab/communications/main/REA
 tail -n +4 readme2 >> tmp.txt
 rm -r readme2
 mv tmp.txt _pages/published-documents.md
+git add .

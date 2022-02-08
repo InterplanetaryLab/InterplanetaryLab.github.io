@@ -11,4 +11,4 @@ git config user.name github-actions
 git config user.email github-actions@github.com
 git add .
 git commit -am "updated Publications page"
-git push
+git push origin HEAD:master

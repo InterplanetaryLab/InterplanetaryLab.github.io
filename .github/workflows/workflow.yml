@@ -9,3 +9,6 @@ jobs:
         uses: dineshsonachalam/markdown-autodocs@v1.0.4
         with:
           categories: '[code-block,json-to-html-table,workflow-artifact-table]'
+          commit_author: Author <actions@github.com>
+          commit_user_email: actions@github.com
+          branch: master

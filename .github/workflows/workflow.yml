@@ -6,6 +6,9 @@ jobs:
     steps:
       - run: echo "performing readme merge from publications document"
       - uses: actions/checkout@v1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
       - name: "performing command"
         run: bash ./.github/workflows/update_pub.sh
       - name: "Commit Files"

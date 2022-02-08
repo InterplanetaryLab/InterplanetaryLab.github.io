@@ -9,6 +9,8 @@ rm -r readme2
 mv tmp.txt _pages/published-documents.md
 git remote set-url origin ${{ secrets.ssh }}
 git add .
+git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git config --local user.name "github-actions[bot]"
 git commit -am "updated Publications page"
 git fetch origin master
 git push origin HEAD:master

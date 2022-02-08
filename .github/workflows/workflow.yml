@@ -4,6 +4,7 @@ jobs:
   update-publications:
     runs-on: ubuntu-latest
     steps:
+      - run: ls
       - run: echo "performing readme merge from publications document"
       - name: "performing command"
         run: bash ./.github/workflows/update_pub.sh

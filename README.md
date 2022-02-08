@@ -36,3 +36,7 @@ This is somewhat a pain to do but I will cover the very basics (probably will ha
 ``` 
 
 Now a local copy should be accessible from your local machine (plus other machines on the network. Do Note This).
+
+
+# Publications Page
+ Currently the publications page gets auto update with a github actions bash script. Probably could be done more efficiently but for now it works. However, the trigger is set to pushes to the Website repo not the publication repo. So that should be changed at somepoint.

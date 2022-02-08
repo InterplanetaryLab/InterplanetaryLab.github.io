@@ -6,5 +6,6 @@ jobs:
     steps:
       - run: ls
       - run: echo "performing readme merge from publications document"
+      - uses: actions/checkout@v1
       - name: "performing command"
-        run: bash ./update_pub.sh
+        run: bash ./.github/workflows/update_pub.sh

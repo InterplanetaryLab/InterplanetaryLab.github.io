@@ -1,5 +1,0 @@
----
-layout: post
-title: IILab Event Announcements - 09-14-2022
----
-<img src="/_images/lab_events/IILab Events 2022-09-14.png" width="100%" height="100%"/>

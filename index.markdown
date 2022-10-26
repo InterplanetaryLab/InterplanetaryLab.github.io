@@ -54,4 +54,4 @@ Super-users have all privileges of a User but are granted door access to the lab
 See navigation side bar for the various equipment/facilities pages
 
 # Highlight Reel
-<iframe src="https://photos.google.com/share/AF1QipMEf1eRIqsFuyiP9pxhzgRAvXqhtT7Bkxxr1txO8lSminwUOehVjaB3CVt1J2ar8Q/photo/AF1QipN7aUn4mHHEJXUtHk0XaJ7nRFtqq0_2e-BdCZjc" height="600" width="800"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrQKR0RnRG2EFUVHhOGhA7izUDIJQMrjRnamWw7VKMeKdfMDmcNRadiH7fLaCkUmQYpsoJEDYbS2Ho/embed?start=true&loop=true&delayms=3000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

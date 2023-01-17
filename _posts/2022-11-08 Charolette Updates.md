@@ -21,14 +21,14 @@ capabilities, is also being developed as an outreach piece, where the public wil
 control a RC car in the sandbox, as though they were driving on the lunar surface. This project
 is currently being worked on by a capstone group.
 
-<img src="/_images/lab_events/Charlotte-lunar-snadbox-11-08-22.png" width="100%" height="100%"/>
+<img src="/_images/lab_events/Charlotte-lunar-snadbox-11-08-22.png" width="70%" height="70%"/>
 Figure 1. CHARLOTTE in gravity harness in the lunar sandbox.
 
-<img src="/_images/lab_events/Charlotte-lunar-snadbox-setup-11-08-22.png" width="100%" height="100%"/>
+<img src="/_images/lab_events/Charlotte-lunar-snadbox-setup-11-08-22.png" width="70%" height="70%"/>
 Figure 2. The test set-up for abrasion testing on the MVDC cable.
 
-<img src="/_images/lab_events/Charlotte-thermal-cycling-setup-11-08-22.png" width="100%" height="50%"/>
+<img src="/_images/lab_events/Charlotte-thermal-cycling-setup-11-08-22.png" width="70%" height="70%"/>
 Figure 3. Thermal cycling set-up of the 3 DOF leg
 
-<img src="/_images/lab_events/Charlotte-TVAC-testing-11-08-22.png" width="100%" height="100%"/>
+<img src="/_images/lab_events/Charlotte-TVAC-testing-11-08-22.png" width="70%" height="70%"/>
 Figure 4. TVAC testing set-up of the MVDC cable.

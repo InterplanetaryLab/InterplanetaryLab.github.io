@@ -10,9 +10,9 @@ Welcome to the Interplanetary Initiative Lab Wiki. This wiki contains technical 
 
 The IILab is a cross between a university training cubesat lab, a maker space, and an R&D laboratory. The 6000 sq ft facility includes collaboration space, electronics development, fabrication, assembly and test.  Test facilities include a cubesat shaker table, a thermal vacuum chamber, a small clean room, a roof deck, and air-bearing attitude test.  Some of these facilities are operational now, others are under development.  
 
-[Student Signup](https://interplanetary.asu.edu/StudentLab). 
+[Student Signup](https://airtable.com/appgwbJhtJBPEvkJS/tbl0DqlsLuPOFuNSe/viwniKfPiKDG3F6rR?blocks=hide)
 
-[Corporate/Affiliate Signup](https://interplanetary.asu.edu/LabMembers).
+[Corporate/Affiliate Signup](https://interplanetary.asu.edu/LabMembers)
 
 ## Location
 Tempe Campus<br>

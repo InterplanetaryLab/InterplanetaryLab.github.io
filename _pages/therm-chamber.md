@@ -1,21 +1,13 @@
 ---
 layout: page 
 title: Thermal Chamber
-sidebar_link: true
+sidebar_link: false
+permalink: /facilities/thermal/
+categories: [facilities]
+description: The lab has two thermal chambers. The primary workhorse is the Thermotron which is capable of -70 to +180C
 ---
-# Summary 
-This document summarizes the various features of the Thermal Chamber.
 
-# Photos
-
-## Overall View
-<img src="/_images/thermal_chamber_photos/out_side.jpg" width="100%" height="100%"/>
-
-## 3U CubeSat inside
-<img src="/_images/thermal_chamber_photos/cubesat.jpg" width="100%" height="100%"/>
-
-## Initial Setup of Sensor Control
-<img src="/_images/thermal_chamber_photos/Inital_Setup.jpg" width="100%" height="100%"/>
+{{ page.description }}
 
 # Specifications
  - Model: Thermotron Model S1.2
@@ -27,3 +19,15 @@ This document summarizes the various features of the Thermal Chamber.
   - Thermocouples
   - Power
   - Custom
+
+
+# Photos
+<img src="/_images/thermal_chamber_photos/out_side.jpg" width="100%" height="100%"/>
+
+## 3U CubeSat for scale
+<img src="/_images/thermal_chamber_photos/cubesat.jpg" width="100%" height="100%"/>
+
+## Initial Setup of Sensor Control
+<img src="/_images/thermal_chamber_photos/Inital_Setup.jpg" width="100%" height="100%"/>
+
+

@@ -8,7 +8,7 @@ description: Vibration table capable tuned for cubesats up to 6U.
 ---
 
 {{ page.description }}
-<img src="/_images/shaker_photos/shaker_photo_1.jpg" width="50%">
+<img src="/_images/shaker_photos/shaker_photo_1.jpg" width="80%" height="80%">
 
 
 # Vibration Specifications:

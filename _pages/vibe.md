@@ -1,11 +1,15 @@
 ---
 layout: page 
 title: Vibration Testing System
-sidebar_link: true
+sidebar_link: false
+permalink: /facilities/vibe/
+categories: [facilities]
+description: Vibration table capable tuned for cubesats up to 6U.
 ---
 
-# Summary 
-This document summaries the specifications pertaining to the Vibration Testing System.
+{{ page.description }}
+<img src="/_images/shaker_photos/shaker_photo_1.jpg" width="80%" height="80%">
+
 
 # Vibration Specifications:
  - Max Random Force: 350lbf RMS
@@ -18,8 +22,6 @@ This document summaries the specifications pertaining to the Vibration Testing S
  - Capable of Meeting Various Cubesat Launch Provider's Vibration Specifications.
  - 1 - 6U CubeSat Hardmount Fixture
 
-# Overall Shaker Photo
-<img src="/_images/shaker_photos/shaker_photo_1.jpg" width="80%" height="80%"/>
 
 # Shaker Controller & Amplifier
 <img src="/_images/shaker_photos/controller.jpg" width="80%" height="80%"/>

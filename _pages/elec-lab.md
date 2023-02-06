@@ -1,14 +1,13 @@
 ---
 layout: page 
 title: Electronics Lab
-sidebar_link: true
+sidebar_link: false
+permalink: /facilities/e-lab/
+description: Electronics lab includes development stations, board assembly and test tools, and 3D manufacture.
 ---
 
-# Summary
-This document summaries the various specifications regarding the Electronics Section of the Lab. 
 
-# Photos
-## General View
+The electronics lab is equipped for electronics prototyping as well as limited manufacture and test.
 <img src="/_images/elec-lab/elec-lab.png"/>
 
 ## Soldering/Reworking & Board Assembly

@@ -1,15 +1,17 @@
 ---
 layout: page 
 title: Hardware Lab
-sidebar_link: true
+sidebar_link: false
+permalink: /facilities/tools/
+categories: [facilities]
+description: The fab and testing side of the lab includes common hand and power tools as well as the larger  apparatuses like fume hood, thermal, vacuum and vibe.
 ---
 
-# Summary
-This page summarizes the capabilities of the Hardware Lab.
 
-# Photos
-## Overview
+{{ page.description }}
+
 <img src="/_images/hw-lab/GOPR6849.JPG" width="100%" height="100%"/> 
+
 
 ## Drill Press
 <img src="/_images/hw-lab/drill-press.jpg" width="100%" height="100%"/>

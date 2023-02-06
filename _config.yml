@@ -1,12 +1,14 @@
-title:               Interplanetary Initiative Lab
-tagline:             'An Interplanetary Initiative Operation'
-description:         "A more frequently updated website for the lab's specifications"
+title:              'IPL'
+tagline:             'Interplanetary Lab'
+description:         "ASU's Interplanetary Lab"
 paginate:            5
 paginate_path: "/lab-news/page:num/"
 permalink:           pretty
 domain: interplanetarylab.github.io
 url: https://interplanetarylab.github.io
 baseurl: / # change to /testing-website/ for git pages
+categories: [facilities]
+
 
 include:
   - "_images"

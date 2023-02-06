@@ -6,13 +6,24 @@ layout: index
 title: Welcome
 ---
 <img src="_images/IIlab_Banner3.png" width=1000px>
-Welcome to the Interplanetary Initiative Lab Wiki. This wiki contains technical information pertaining to the lab. 
+Welcome to Arizona State University's Interplanetary Lab (IPL).
 
-The IILab is a cross between a university training cubesat lab, a maker space, and an R&D laboratory. The 6000 sq ft facility includes collaboration space, electronics development, fabrication, assembly and test.  Test facilities include a cubesat shaker table, a thermal vacuum chamber, a small clean room, a roof deck, and air-bearing attitude test.  Some of these facilities are operational now, others are under development.  
 
-[Student Signup](https://airtable.com/appgwbJhtJBPEvkJS/tbl0DqlsLuPOFuNSe/viwniKfPiKDG3F6rR?blocks=hide)
+# About
+IPL supplies training and mission technical services to the University and its partners. As a training lab it is a maker-space style environment open to students and partners. As a service provider the lab is primarily powered by trained student staff working under the direction of faculty.
 
-[Corporate/Affiliate Signup](https://interplanetary.asu.edu/LabMembers)
+ The 6000 sq ft facility includes collaboration space, electronics development, fabrication, assembly and test.  Test facilities include a cubesat shaker table, a thermal vacuum chamber, a small clean room, a roof deck, and anechoic chamber.  
+
+## Become a USER
+Current ASU students may use the lab facilities for relevant projects by becoming a USER. 
+
+[Student USER Signup](https://airtable.com/appgwbJhtJBPEvkJS/tbl0DqlsLuPOFuNSe/viwniKfPiKDG3F6rR?blocks=hide)
+
+
+
+Outside collaborators from industry or other universities can also become USERS or SPONSORS.
+
+[Corporate/Affiliate Contact by email](email:iilab@asu.edu)
 
 ## Location
 Tempe Campus<br>
@@ -29,7 +40,7 @@ Lab Users can access the lab when a II-Lifeguard is present. The [Google Calenda
 2. Keycard access can be granted, see SuperUser level access below.
 
 ## Lab Schedule
-An II-Lifeguard must be present during ordinary student use of the lab. The lab is open when a lifeguard is present, see the lifeguard [google calendar](https://calendar.google.com/calendar/u/2?cid=Y19zcWNpdXFhb2RxM3Q1aGU1MHIxNzc3Zm9wa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Other times on evenings and weekends can usually be arranged, please make a request in the #iilab slack channel. 
+An Staff member must be present during ordinary USER use of the lab. The lab is open when staff are present, see the staff [google calendar](https://calendar.google.com/calendar/u/2?cid=Y19zcWNpdXFhb2RxM3Q1aGU1MHIxNzc3Zm9wa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Other times on evenings and weekends can usually be arranged, please make a request in the #iilab slack channel. 
 
 ## Users 
 ### User Privileges

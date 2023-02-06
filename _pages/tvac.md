@@ -1,13 +1,14 @@
 ---
 layout: page 
 title: Thermal Vacuum Chamber
-sidebar_link: true
+sidebar_link: false
+permalink: /facilities/tvac/
+categories: [facilities]
+description: Thermal Vacuum testing with multiple setups including 1m^3 volume rigged for LN2 and heat.
 ---
+{{ page.description }}
 
-# Summary 
-This document gives insight into the current specifications, overview pictures, and the future specifications pertaining to the thermal vacuum chamber.
-
-# Current Specifications
+# Specs
  - Volume of ~1 m^3
  - Current Electric Feedthroughs:
     - 4x 50 d-sub (Max 500V, 5A)
@@ -17,20 +18,21 @@ This document gives insight into the current specifications, overview pictures, 
  - Lowest pressure tested 1.22e-3 torr (Nov. 21, 2021)
  - 9 Total ports
 
-# Photos
-## Front of Chamber
+## Front 
 <img src="/_images/vac_photos/IMG_2642.jpeg" width="80%" height="80%"/>
 
-## Left Side of Chamber
-<img src="/_images/vac_photos/Left_Side.jpg" width="80%" height="80%"/>
+## Left
+<img src="/_images/vac_photos/left_side.jpg" width="80%" height="80%"/>
 
-## Right Side of Chamber
+## Right
 <img src="/_images/vac_photos/right_side.jpg" width="80%" height="80%"/>
+View showing turbopump and electrical feedthroughs.
 
-## Future Thermal Shroud Model
+
+## Thermal Shroud Design
 <img src="/_images/vac_photos/model-thermal.png" width="80%" height="80%"/>
 
-## Initial Shroud 
+## Thermal shroud in assembly
 <img src="/_images/vac_photos/Initial_Shroud.jpg" width="80%" height="80%"/>
  
 # Future Specifications

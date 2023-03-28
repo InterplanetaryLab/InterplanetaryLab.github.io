@@ -17,9 +17,7 @@ IPL supplies training and mission technical services to the University and its p
 ## Become a USER
 Current ASU students may use the lab facilities for relevant projects by becoming a USER. 
 
-[Student USER Signup](https://airtable.com/appgwbJhtJBPEvkJS/tbl0DqlsLuPOFuNSe/viwniKfPiKDG3F6rR?blocks=hide)
-
-
+[Student USER Signup](https://airtable.com/shrBlDNvLRq4F1G0T)
 
 Outside collaborators from industry or other universities can also become USERS or SPONSORS.
 

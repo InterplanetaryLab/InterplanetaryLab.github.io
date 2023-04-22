@@ -4,12 +4,11 @@ title: Lightcube
 sidebar_link: true
 permalink: /missions/Lightcube
 ---
-# Mission Summary
+![Lightcube at delivery](/_images/PXL_20221213_201804519.jpeg "Lightcube at delivery"){:class="img-responsive" width="200px" float:"right"}
+
 LightCube is a 1U Cubesat with an outreach and accessibility goal of providing an immediate and powerful connection to space and to the night sky. It does this by providing a momentary flash of light that is visible to the naked eye and can  be triggered by any amateur radio operator.
 
-![Lightcube at delivery](/_images/PXL_20221213_201804519.jpeg "Lightcube at delivery"){:class="img-responsive" width="200px"}
-
-## Mission Status
+## Status
 Aboard ISS, pending deployment<br>
 Public Flash Trigger: Closed
 

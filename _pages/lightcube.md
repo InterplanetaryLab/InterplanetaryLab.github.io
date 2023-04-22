@@ -8,6 +8,8 @@ permalink: /missions/Lightcube
 
 LightCube is a 1U Cubesat with an outreach and accessibility goal of providing an immediate and powerful connection to space and to the night sky. It does this by providing a momentary flash of light that is visible to the naked eye and can  be triggered by any amateur radio operator.
 
+[ElaNa #50, Whats on board? 3/8/2023](https://blogs.nasa.gov/smallsatellites/2023/03/08/elana-50-whats-on-board/).
+
 ## Status
 Aboard ISS, pending deployment<br>
 Public Flash Trigger: Closed

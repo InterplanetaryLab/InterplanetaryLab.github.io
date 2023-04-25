@@ -22,16 +22,16 @@ LIGHTCUBE
 **Operation Frequency:** 437.175 MHz <br>
 **Modulation:** FM (Narrowband) 2.5 kHz <br> 
 **Command/Response**: DTMF tone sequence <br>
-**Telemetry Encoding**: FM AFSK Bell 103, 300 baud <br>
 **Transmitter Power:** 1W - 5W <br>
 **Beacon** Transmits every 30s. Data encoding details TBD
-
-## Operations Plan
-1. Deploy from ISS -  Lightcube powers on and enters safety hold
-2. D + 45 minutes - Antennas deploy and beacon activates
-3. Acquire beacon and test.  Coordination with amateur operators, satnogs 
-4. Public Operations: Open flash commanding to public trials
-
+### Telemetry Encoding: 
+ * RF Modulation: FM 
+ * Audio Sound Modulation: AFSK Bell 103
+ * Encoding rate: 300 baud 
+ * Byte definition: 8 bits, 1 stop, even parity
+ * Note: Bytes are trailed by two unused bits.
+ * [Heartbeat packet Rev A](https://github.com/InterplanetaryLab/communications/blob/main/Lightcube%20Telemetry%20Packet%20Definition.pdf), updated 25 April 2023 
+ * Telemetry decoding gnuradio flowgraphs on [github](https://github.com/ASU-cubesat/lightcube_telemetry)
 
 # Updates
 ## 22 April 2023
@@ -44,6 +44,10 @@ Lightcube assigned temporary NORAD ID 99165<br>
 LIGHTCUBE
 1 99165U 23033XXX 123114.50347222 .00000000   00000-0  00000-0 <br>
 2 XXXXX  51.5364 234.2242 0008904 243.7630 219.3857 15.50958337
-
-
+## 25 April 2023
+Heartbeat telemetry decoded from audio recordings! Battery at 88% and charging. Packet definition and flowgraphs now linked above. Operations discussion at [Librespace](https://community.libre.space/t/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc/10322/16).
+### New TLE based on Satnogs observations.
+LightCube
+1 99165U          23115.20000000  .00000000  00000-0  00000-0 0    07<br>
+2 99165  51.6414 230.2247 0005920 174.6015 220.5620 15.50201805    07
 

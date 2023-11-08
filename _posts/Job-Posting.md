@@ -7,7 +7,7 @@ Hello Users,
 
 We have some exciting news! IPL is hiring! Please apply at our at the link below! 
 
-[Labe Aide Job Posting](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25620&siteid=5495&PageType=JobDetails&SID=%5Euou8KzENWkGD63u3VdLQrUfKwzyUL7TH3gRs9gstoAZ1jdssy12M4X7Ijw%2Fhl2Sf&partnerid1=25620&siteid1=5495&pagetype1=jobdetails&jobid=4847448#jobDetails=4847448_5495). 
+[Lab Aide Job Posting](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25620&siteid=5495&PageType=JobDetails&SID=%5Euou8KzENWkGD63u3VdLQrUfKwzyUL7TH3gRs9gstoAZ1jdssy12M4X7Ijw%2Fhl2Sf&partnerid1=25620&siteid1=5495&pagetype1=jobdetails&jobid=4847448#jobDetails=4847448_5495). 
 
 <img src="/_images/lab_events/IPL-Advertising Poster-11-8-23.png" width="50%" height="70%"/>
 

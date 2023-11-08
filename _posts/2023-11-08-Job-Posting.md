@@ -21,7 +21,5 @@ Best,
 Genevieve Cooper
 
 Head of Student Programs
+
 Interplanetary Laboratory
-Arizona State University
-email: gcooper7796@gmail.com
-web: interplanetary.asu.edu

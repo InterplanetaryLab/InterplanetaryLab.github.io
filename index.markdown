@@ -19,6 +19,10 @@ Current ASU students may use the lab facilities for relevant projects by becomin
 
 [Student USER Signup](https://airtable.com/shrBlDNvLRq4F1G0T)
 
+Join the mailing list! 
+
+[Mailing list](https://lists.asu.edu/cgi-bin/wa?SUBED1=IILAB-IG&A=1)
+
 Outside collaborators from industry or other universities can also become USERS or SPONSORS.
 
 [Corporate/Affiliate Contact by email](email:iilab@asu.edu)

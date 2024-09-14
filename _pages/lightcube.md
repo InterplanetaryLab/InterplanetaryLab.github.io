@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lightcube
-sidebar_link: true
+sidebar_link: false
 permalink: /missions/Lightcube
 ---
 ![Lightcube at delivery](/_images/PXL_20221213_201804519.jpeg "Lightcube at delivery"){:class="img-responsive" width="200px" float:"right"}
@@ -50,4 +50,20 @@ Heartbeat telemetry decoded from audio recordings! Battery at 88% and charging. 
 LightCube
 1 99165U          23115.20000000  .00000000  00000-0  00000-0 0    07<br>
 2 99165  51.6414 230.2247 0005920 174.6015 220.5620 15.50201805    07
+## 26 April
+Telemetry from Satnogs stations show battery temperatures below freezing! The heater is not doing its job.
+
+During a low pass over ASU two beacons were heard but could not be decoded.
+
+## 27 April
+No beacons have been heard today.  The worst is feared.  
+## 30 April
+The mission is declared lost. Further attempts to contact are abandoned. Flash On, Lightcube! 
+## 13 Sept 2023
+An investigation has traced the root cause to the primary flight computer where the battery heater was left disabled in
+software. Beware RBF pragmas!
+For more details, see [Berkhout et al 2023](https://pubs.gnuradio.org/index.php/grcon/article/view/138)
+
+
+
 

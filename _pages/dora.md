@@ -17,7 +17,8 @@ Lab who built and operated the spacecraft. See the [LoCo DORA page](https://loco
 [NASA partners with universities for soil-monitoring and optical comms CubeSats (1 Aug 2024)](https://www.spacedaily.com/reports/NASA_partners_with_universities_to_deploy_soil_monitoring_and_optical_communication_CubeSats_999.html)
 ## Status
 * Launched on Cygnus 21 resupply mission. Falcon9 from KSC aboard Cygnus. 4 Aug 2024.
-* Awaiting deployment from ISS (scheduled for week of 30 Sept 2024)
+* Awaiting deployment from ISS (scheduled for 9 Oct 2024, 06:25am Central Time)
+* Livestream TBD
 
 ## Tracking info
 NORAD ID#: Not yet assigned<br>

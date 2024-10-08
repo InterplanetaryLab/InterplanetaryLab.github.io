@@ -22,8 +22,9 @@ Lab who built and operated the spacecraft. See the [LoCo DORA page](https://loco
 
 ## Tracking info
 NORAD ID#: Not yet assigned<br>
-TLE: (projected)
-1 99999U 20000AAA 24282.44097222  00000-0    00000-0 0  0008
+Temporary NORAD ID (Satnogs): 98911<br>
+TLE: (projected)<br>
+1 99999U 20000AAA 24282.44097222  00000-0    00000-0 0  0008<br>
 2 99999  51.7756 114.0936 0020898  70.2161 315.1398 15.486604886
 
 
@@ -50,4 +51,9 @@ Kennedy Space Center on 4 August 2024")
 
 ## 7 Oct 2024
 DORA is scheduled for deployment tomorrow morning 8 Oct 5:25 CT 
+
+## 8 Oct 2024
+ * 10:25GMT / 3:25AZ DORA is deployed from the ISS
+ * 11:20  DORA has been detected over Australia!
+
 

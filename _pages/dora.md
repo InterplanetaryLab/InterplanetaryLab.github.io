@@ -56,4 +56,24 @@ DORA is scheduled for deployment tomorrow morning 8 Oct 5:25 CT
  * 10:25GMT / 3:25AZ DORA is deployed from the ISS
  * 11:20  DORA has been detected over Australia!
 
+## 9 Oct 2024
+ * DORA has been detected by the ASU ground station. Commands were issued and have been received
+ * Battery fully charged and solar panels providing power!
+ * The ground station receiver is not working (We think we blew the LNA during transmit. A better sequencer system is already in work!)
+ * Currently operating in bistatic mode. Send commands from ASU, check reception via satnogs.
+ * OpenLST radio working well, but framing not supported out of the box into satnogs.
+ * Manually demodulating data with winmodem for now.
+
+## 11 Oct 2024
+ * Attempted to command DORA sun tracking. 
+ * No charging indicated. Tracking command has probably caused an undesired motion away from sun
+
+## 15 Oct 2024
+ * DORA beacons continue to be reported by Satnogs stations. 
+ * Attempting ADCS to restore pointing. 
+ * New: [Satnogs dashboard](https://dashboard.satnogs.org/d/kegOGdiNk/dora?orgId=1)
+
+## 18 Oct 2024
+ * Continuing to upload ADCS configuration changes. 
+ * Power seems to have stabilized a bit. Battery heaters no longer firing. Battery voltage climbing. Charging in the sun most times. Resets have become less common.
 

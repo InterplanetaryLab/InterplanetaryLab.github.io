@@ -7,7 +7,7 @@ permalink: /missions/DORA
 ![DORA at delivery](/_images/DORA_team.jpg "DORA and build team before final delivery stow"){:class="img-responsive"
 style="width: 400px; float:right"}
 
-![DORA deployment](/_images/DORA_deploy_1.jpg "DORA deployed from ISS on 7 Oct 2024"){:class="img-responsive"
+![DORA deployment](/_images/dora_deploy_1.jpg "DORA deployed from ISS on 7 Oct 2024"){:class="img-responsive"
 style="width: 400px; float:right"}
 
 The Deployable Optical Receiver Array (DORA) is a 3U testbed for future communications and radio astronomy technology. It includes a pathfinder for widefield

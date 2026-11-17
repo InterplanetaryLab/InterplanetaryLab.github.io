@@ -8,15 +8,6 @@ permalink: /missions/DORA
 The DORA mission coincided with the highest level of activity seen on the sun in a generation. Extra inputs to the
 atmosphere brought a lot more drag than originally planned.  DORA re-entered on Dec 1 after 54 days in orbit. 
 
-DORA was active and transmitting until the end. The attitude control system never really worked right, though we were
-getting close there at the end. Power was intermittent through the mission with occassional periods of strong power. The leading hypothesis is that she went into
-a flat spin and that orbital plane precession  occassionally brought the solar panel into the sun. The payloads were
-activated during one of these periods, two weeks prior to the forecast re-entry. The radio payload delivered data but
-the monopole antenna did not deploy. This data showed that the reciever sensitivity hadn't changed since pre-launch
-bench testing; a useful result!  When the SiPM optical receiver was commanded to power on, a breaker was tripped. This
-is likely due to a frayed wire in a power connector. The root cause was wear during assembly by DORA's unique
-"structural skin" which was borrowed from a cancelled mission as an adaptation to covid-era supply chain problems.
-
 DORA provided valuable training for many ASU students and flight experience for the Low frequency Cosmology lab which
 aims to deploy future radio instruments on the Moon.
 
@@ -48,6 +39,17 @@ The DORA project is a partnership between ASU's Low Frequency Cosmology lab who 
 Lab who built and operated the spacecraft. See the [LoCo DORA page](https://loco.lab.asu.edu/research/dora/)
 
 [NASA partners with universities for soil-monitoring and optical comms CubeSats (1 Aug 2024)](https://www.spacedaily.com/reports/NASA_partners_with_universities_to_deploy_soil_monitoring_and_optical_communication_CubeSats_999.html)
+
+## DORA Mission Closeout Summary
+DORA was active and transmitting until re-entry on 1 Dec 2025. The attitude control system never really worked right, though we were
+getting close there at the end. Power was intermittent through the mission with occassional periods of strong power. The leading hypothesis is that she went into
+a flat spin and that orbital plane precession  occassionally brought the solar panel into the sun. The payloads were
+activated during one of these periods, two weeks prior to the forecast re-entry. The radio payload delivered data but
+the monopole antenna did not deploy. This data showed that the reciever sensitivity hadn't changed since pre-launch
+bench testing; a useful result!  When the SiPM optical receiver was commanded to power on, a breaker was tripped. This
+is likely due to a frayed wire in a power connector. The root cause was wear during assembly by DORA's unique
+"structural skin" which was borrowed from a cancelled mission as an adaptation to covid-era supply chain problems.
+
 
 # Historical Record
 ## Status

@@ -1,42 +1,59 @@
-# Internal Guide for Editing Website
+# Interplanetary Lab website
 
-## Intro + Repo Access
- For the most part you can just edit the files via the github repo (asking for writing permission or at least pull request permission may be necessary. Ask a competent lifeguard on the matter or Danny).
-<a/> 
- All of the base documents follow the markdown file format (simpler html effectively). See the following guides if some more detailed descriptions on markdown is desired.
- - [Github Basic Syntax Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+This repository contains the Jekyll site published at <https://interplanetarylab.github.io>. It uses the [Hydeout](https://github.com/fongandrew/hydeout) theme and the dependencies locked in `Gemfile.lock`.
 
-## Theme Notes:
- The current theme as 12-20-21 is [Hydeout](https://github.com/fongandrew/hydeout). Do note the remote theme option in jekyll is being used here which could cause problems in the future. So potentially update with a local version of this theme (a somewhat annoying process so has been pushed back to a different date). Checkout that Repo for information on theme modification for the most part but simple notes.
+## Site structure
 
-<a/>
+- `_config.yml` contains the site title, production URL, theme, plugins, and news pagination settings.
+- `index.markdown` is the home page.
+- `_pages/` contains facilities, missions, and documentation pages. Set `sidebar_link: true` in a page's front matter to include it in the sidebar.
+- `_pages/Facilities.md` is the single facilities reference. The other facility files preserve old URLs and redirect to sections on that page.
+- `_posts/` contains news posts. `lab-news/index.html` lists them, and `jekyll-paginate` builds older archive pages at `/lab-news/page2/`, `/lab-news/page3/`, and so on.
+- `_images/` contains site and post images. Subdirectories group photos by facility or event.
+- `assets/css/main.scss` contains the theme import and local style settings.
+- `_includes/` contains small local theme overrides, including the sidebar filter and redirect metadata.
 
- To add a page to the sidebar just include
-```bash
-sidebar_link: true
+## Add a news post
+
+1. Create `_posts/YYYY-MM-DD-short-title.md`.
+2. Start it with front matter:
+
+   ```yaml
+   ---
+   layout: post
+   title: A clear public title
+   ---
+   ```
+
+3. Write the post in Markdown. Put its images in a descriptive `_images/` subdirectory and reference them with a root-relative path, for example:
+
+   ```markdown
+   ![Description of the photo](/_images/lab_events/example.jpg)
+   ```
+
+The date in the filename controls the post date and its position in the news archive.
+
+## Add or update photos
+
+- Keep original images at a practical web size and use descriptive filenames.
+- Place general images in `_images/`; use an existing facility or event subdirectory when appropriate.
+- Add meaningful `alt` text. Root-relative image paths work both on GitHub Pages and in the local preview.
+- Do not rename existing image files unless every reference is updated; old posts may depend on them.
+
+## Build and preview locally
+
+Install a Ruby version compatible with the locked gems, then install Bundler. From the repository root run:
+
+```sh
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve --livereload
 ```
-in the top page definition section (probably fair to just copy existing pages to resolve this issue).
 
-## Local Testing.
-This is somewhat a pain to do but I will cover the very basics (probably will have a VM dedicated somewhere for local website testing).
+Open <http://127.0.0.1:4000/>. There is no need to edit `_config.yml` for a normal local preview. Use `bundle install` rather than `bundle update` so dependency versions remain locked.
 
- 1. Clone this repo.
- 2. Edit the config.yml and comment out these line temporarily (undo this when you PR or push to repo):
-```bash
-	domain: interplanetarylab.github.io
-	url: https://interplanetarylab.github.io
-	baseurl: / # change to /testing-website/ for git pages
-```
- 3. Make sure you have Gem, Ruby, Bundler installed (won't go into that but some decent guides from Jekyll exist).
- 4. Run the following commands (sudo permissions may be needed depending on your installation of gem).
-```bash
-	bundle update
-	bundle exec jekyll build
-	bundle exec jekyll serve --host=0.0.0.0
-``` 
+Before opening a pull request, run `bundle exec jekyll build` and review the home page, sidebar, `/facilities/`, `/lab-news/`, and at least one generated news archive page.
 
-Now a local copy should be accessible from your local machine (plus other machines on the network. Do Note This).
+## Publication update automation
 
-
-# Publications Page
- Currently the publications page gets auto update with a github actions bash script. Probably could be done more efficiently but for now it works. However, the trigger is set to pushes to the Website repo not the publication repo. So that should be changed at somepoint.
+The workflow in `.github/workflows/` replaces the body of `_pages/published-documents.md` from the `InterplanetaryLab/communications` repository on pushes. Its repository URL is a working service identifier and should not be changed as part of a visual branding cleanup.

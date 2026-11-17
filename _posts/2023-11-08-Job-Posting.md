@@ -22,4 +22,4 @@ Genevieve Cooper
 
 Head of Student Programs
 
-Interplanetary Laboratory
+Interplanetary Lab

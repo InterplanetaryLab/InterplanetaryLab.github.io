@@ -13,7 +13,7 @@ Partners:
 Howe Industries https://www.howeindustries.net/ in support of a Space Force STTR.
  
  
-Interplanetary Laboratory key contributions:
+Interplanetary Lab key contributions:
 We created a System Engineering Report for the spacecraft portion of this project. For the study we developed a list of currently available components and conducted power, mass, volume and operations analysis. We also developed a 3D printed model to assess manufacturability, integration and handling.
 
 Figure 1: ROAMER 3D Printed (1/3 version)

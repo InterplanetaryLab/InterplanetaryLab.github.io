@@ -1,6 +1,6 @@
 title:              'IPL'
 tagline:             'Interplanetary Lab'
-description:         "ASU's Interplanetary Lab"
+description:         "ASU's Cubesat Lab"
 paginate:            5
 paginate_path: "/lab-news/page:num/"
 permalink:           pretty

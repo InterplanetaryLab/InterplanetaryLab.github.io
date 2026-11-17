@@ -38,7 +38,7 @@ Delivery Entrance: Southwest corner (by arrangement or inquire at main entrance)
 Lab Users can access the lab when a II-Lifeguard is present. The [Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19zcWNpdXFhb2RxM3Q1aGU1MHIxNzc3Zm9wa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) tracks when lifeguards are scheduled to be in the lab.
 
 ## Lab Rules
-1. To work in the lab one must be a current IILab User, see below. Visitors are ok but can't use any equipment until registered as a User. 
+1. To work in the lab one must be a current User, see below. Visitors are ok but can't use any equipment until registered as a User. 
 2. Keycard access can be granted, see SuperUser level access below.
 
 ## Lab Schedule
@@ -46,12 +46,12 @@ An Staff member must be present during ordinary USER use of the lab. The lab is 
 
 ## Users 
 ### User Privileges
-1. Access to IILab slack, google drive documentation, and internal github repositories
+1. Access to IPL slack, google drive documentation, and internal github repositories
 2. Permission to use lab equipment, keep things in the lab, etc. (Equipment reservation is currently not required but might be introduced in the future.)
 
 ### User Responsibilities 
 1. Be current on ASU training as assigned in the [User Manual](https://github.com/InterplanetaryLab/II-LAB_User_Guide) 
-2. Know and use IILab documentation in the Users google drive.
+2. Know and use IPL documentation in the Users google drive.
 3. Communicate with lifeguards. Let them know when you arrive, what you're working on, and when you leave.
 4. Ask for things you need
 5. Report equipment problems or when something is out of stock

@@ -1,9 +1,39 @@
 ---
 layout: page
 title: DORA
-sidebar_link: true
 permalink: /missions/DORA
 ---
+
+## DORA Mission Complete
+The DORA mission coincided with the highest level of activity seen on the sun in a generation. Extra inputs to the
+atmosphere brought a lot more drag than originally planned.  DORA re-entered on Dec 1 after 54 days in orbit. 
+
+DORA was active and transmitting until the end. The attitude control system never really worked right, though we were
+getting close there at the end. Power was intermittent through the mission with occassional periods of strong power. The leading hypothesis is that she went into
+a flat spin and that orbital plane precession  occassionally brought the solar panel into the sun. The payloads were
+activated during one of these periods, two weeks prior to the forecast re-entry. The radio payload delivered data but
+the monopole antenna did not deploy. This data showed that the reciever sensitivity hadn't changed since pre-launch
+bench testing; a useful result!  When the SiPM optical receiver was commanded to power on, a breaker was tripped. This
+is likely due to a frayed wire in a power connector. The root cause was wear during assembly by DORA's unique
+"structural skin" which was borrowed from a cancelled mission as an adaptation to covid-era supply chain problems.
+
+DORA provided valuable training for many ASU students and flight experience for the Low frequency Cosmology lab which
+aims to deploy future radio instruments on the Moon.
+
+
+## Read the papers
+
+![The Radio Background Experiment](https://ieeexplore.ieee.org/document/11068787) Y. Zhao, D. C. Jacobs, J. D. Bowman, T. Samson and M. -O. R. Lalonde, "Pathfinding Low Frequency Radio Astronomy with the DORA Radio Background Experiment," 2025 IEEE Aerospace Conference, Big Sky, MT, USA, 2025, pp. 1-10, doi: 10.1109/AERO63441.2025.11068787. 
+** Awarded Best Paper at IEEE Aerospace 2025**
+
+
+![DORA Mission Report](https://ieeexplore.ieee.org/document/11068721) M. -O. R. Lalonde et al., "Integration and Delivery of the Deployable Optical Receiver Aperture (DORA) Cubesat," 2025 IEEE Aerospace Conference, Big Sky, MT, USA, 2025, pp. 1-12, doi: 10.1109/AERO63441.2025.11068721.
+
+![DORA Re-entry Study](https://digitalcommons.usu.edu/smallsat/2025/all2025/32/) DuBois, Jacobs, Vaidyanathan, Smallsat,
+2025, doi: 10.26077/7f41-cb78
+
+
+## About
 ![DORA at delivery](/_images/DORA_team.jpg "DORA and build team before final delivery stow"){:class="img-responsive"
 style="width: 400px; float:right"}
 
@@ -18,10 +48,11 @@ The DORA project is a partnership between ASU's Low Frequency Cosmology lab who 
 Lab who built and operated the spacecraft. See the [LoCo DORA page](https://loco.lab.asu.edu/research/dora/)
 
 [NASA partners with universities for soil-monitoring and optical comms CubeSats (1 Aug 2024)](https://www.spacedaily.com/reports/NASA_partners_with_universities_to_deploy_soil_monitoring_and_optical_communication_CubeSats_999.html)
+
+# Historical Record
 ## Status
 * SAFE mode with sun pointing faults limiting charge capabilities
 * Beacons continue to be heard in sunlight and commands accepted
-
 
 ## Tracking info
 NORAD ID#: 61502<br>

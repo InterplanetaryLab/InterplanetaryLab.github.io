@@ -23,13 +23,13 @@ aims to deploy future radio instruments on the Moon.
 
 ## Read the papers
 
-![The Radio Background Experiment](https://ieeexplore.ieee.org/document/11068787) Y. Zhao, D. C. Jacobs, J. D. Bowman, T. Samson and M. -O. R. Lalonde, "Pathfinding Low Frequency Radio Astronomy with the DORA Radio Background Experiment," 2025 IEEE Aerospace Conference, Big Sky, MT, USA, 2025, pp. 1-10, doi: 10.1109/AERO63441.2025.11068787. 
+[The Radio Background Experiment](https://ieeexplore.ieee.org/document/11068787) Y. Zhao, D. C. Jacobs, J. D. Bowman, T. Samson and M. -O. R. Lalonde, "Pathfinding Low Frequency Radio Astronomy with the DORA Radio Background Experiment," 2025 IEEE Aerospace Conference, Big Sky, MT, USA, 2025, pp. 1-10, doi: 10.1109/AERO63441.2025.11068787. 
 ** Awarded Best Paper at IEEE Aerospace 2025**
 
 
-![DORA Mission Report](https://ieeexplore.ieee.org/document/11068721) M. -O. R. Lalonde et al., "Integration and Delivery of the Deployable Optical Receiver Aperture (DORA) Cubesat," 2025 IEEE Aerospace Conference, Big Sky, MT, USA, 2025, pp. 1-12, doi: 10.1109/AERO63441.2025.11068721.
+[DORA Mission Report](https://ieeexplore.ieee.org/document/11068721) M. -O. R. Lalonde et al., "Integration and Delivery of the Deployable Optical Receiver Aperture (DORA) Cubesat," 2025 IEEE Aerospace Conference, Big Sky, MT, USA, 2025, pp. 1-12, doi: 10.1109/AERO63441.2025.11068721.
 
-![DORA Re-entry Study](https://digitalcommons.usu.edu/smallsat/2025/all2025/32/) DuBois, Jacobs, Vaidyanathan, Smallsat,
+[DORA Re-entry Study](https://digitalcommons.usu.edu/smallsat/2025/all2025/32/) DuBois, Jacobs, Vaidyanathan, Smallsat,
 2025, doi: 10.26077/7f41-cb78
 
 

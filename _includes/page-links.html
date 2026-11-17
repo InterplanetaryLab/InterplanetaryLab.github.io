@@ -1,0 +1,14 @@
+{% comment %}
+  Hydeout's page-link loop normally includes every page with
+  `sidebar_link: true`. jekyll-paginate copies the News page front matter to
+  generated archive pages, so exclude those generated URLs from navigation.
+{% endcomment %}
+{% assign pages_list = site.pages | sort: "sidebar_sort_order" %}
+{% for node in pages_list %}
+  {% if node.title != null and node.sidebar_link %}
+    {% unless node.url contains '/lab-news/page' %}
+      <a class="page-link {% if page.url == node.url %} active{% endif %}"
+          href="{{ node.url | relative_url }}">{% if node.short_title != null %}{{ node.short_title }}{% else %}{{ node.title }}{% endif %}</a>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
